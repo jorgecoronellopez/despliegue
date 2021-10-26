@@ -2,7 +2,7 @@ name: Automatic Hosting to Firebase
 on:
   push:
     branches:
-      - main
+      - master
 
 jobs:
   deploy:
